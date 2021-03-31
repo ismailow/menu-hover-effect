@@ -16,6 +16,7 @@ body{
     position: relative;
     width: 100px;
     height: 100px;
+    transition: .2s;
 }
 
 .menu__item:hover .menu__icon{
@@ -34,6 +35,7 @@ body{
     align-items: center;
     border-radius: 10px;
     z-index: 10;
+    transition: .2s;
 }
 
 .social__icon{
